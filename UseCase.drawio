@@ -25,6 +25,45 @@
         <mxCell id="aEer66lgYHJFHRynMX58-7" value="ADmin" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="140" width="60" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-9" value="Đăng kí&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-10" value="Đăng Nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-11" value="Thêm sửa xóa thông tin trẻ&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-12" value="Tạo lịch chăn sóc trẻ&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-13" value="xem nhật kí chăm sóc&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-14" value="quản lí trẻ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-15" value="quản lí tài khoản&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-16" value="quản lí doanh thu&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-17" value="gửi thông báo hệ thống&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-18" value="nhận thông báo hệ thống" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-19" value="quản lí tài khoản&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-20" value="hỗ trợ xử lí khiếu nại&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEer66lgYHJFHRynMX58-21" value="duyệt bài cộng đồng&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
