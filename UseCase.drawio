@@ -153,6 +153,15 @@
             <mxPoint x="23" y="1789.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r7rZkjK34tPAngQFPY5--1" value="xem bài viết gia đình&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1089" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r7rZkjK34tPAngQFPY5--2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="r7rZkjK34tPAngQFPY5--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="890" as="sourcePoint" />
+            <mxPoint x="364" y="1035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
